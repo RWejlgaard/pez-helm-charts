@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pez-sh:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2023-02-04T12:31:53.180431098Z"
+    description: A Helm chart for Kubernetes
+    digest: a46bdeaa317e0e568bb7bcee35a8c3d7f4ba73b141621b29299b9bf6c8f1714f
+    name: pez-sh
+    type: application
+    urls:
+    - https://rwejlgaard.github.io/pez-helm-charts/pez-sh-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-04T12:31:53.180060336Z"
