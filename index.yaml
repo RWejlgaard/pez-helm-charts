@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   pez-sh:
   - apiVersion: v2
+    appVersion: 2.0.2
+    created: "2023-04-01T10:17:26.930287658+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 67d1a266d95d43f47eb12cafadec4287ca3f0c01fbacbaf9082f2ae45f99b369
+    name: pez-sh
+    type: application
+    urls:
+    - https://rwejlgaard.github.io/pez-helm-charts/pez-sh-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v2
     appVersion: 2.0.1
-    created: "2023-04-01T00:33:51.826662972+01:00"
+    created: "2023-04-01T10:17:26.930086766+01:00"
     description: A Helm chart for Kubernetes
     digest: 4cc617c86119f0da30d8b72a69ddcf8049b10ed0d178c885531435b47f388a27
     name: pez-sh
@@ -13,7 +23,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-04-01T00:33:51.82645918+01:00"
+    created: "2023-04-01T10:17:26.929875655+01:00"
     description: A Helm chart for Kubernetes
     digest: 522b4fcec04624edb01f464c2739e2bb2358ed82aaaf10ec3261ab6b9c2fb439
     name: pez-sh
@@ -23,7 +33,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-04-01T00:33:51.826234699+01:00"
+    created: "2023-04-01T10:17:26.929671334+01:00"
     description: A Helm chart for Kubernetes
     digest: a46bdeaa317e0e568bb7bcee35a8c3d7f4ba73b141621b29299b9bf6c8f1714f
     name: pez-sh
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://rwejlgaard.github.io/pez-helm-charts/pez-sh-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-01T00:33:51.825835427+01:00"
+generated: "2023-04-01T10:17:26.929301642+01:00"
